@@ -4,7 +4,7 @@ description: Deliver feedback using the 4A framework (Ask, Add, Appreciate, Acce
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3311
+  version: 1.0.3312
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - 4a-feedback-delivery
